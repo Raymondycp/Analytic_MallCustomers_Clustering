@@ -28,7 +28,7 @@ The dataset, `Mall_Customers.csv`, contains 200 customer records with the follow
 - The clustering analysis focuses on `Age`, `Annual Income (k$)`, and `Spending Score (1-100)` for segmentation, with `Gender` used in EDA but not clustering.  
 - The dataset is relatively small (200 records), suitable for unsupervised learning tasks like clustering.
 
-## Usage
+## Key Steps
 
 1. **Data Loading and Preprocessing**:  
      
